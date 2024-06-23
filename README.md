@@ -1,6 +1,6 @@
 ### Hi there 👋, called me Alieutech
 #### I'm a pythonista
-My name is Alieu Saidy. I am a creative full-stack Software Engineer with over 1 years experience.I'm constantly seeking innovative solutions with intuitive problem solving skills.I am eager to contribute to innovative projects and collaborate with like-minded professionals to drive impactful solutions in the software development industry.I'm more passionate about backend engineering.
+My name is Alieu Saidy. I am a creative full-stack Software Engineer with over 1 year experience.I'm constantly seeking innovative solutions with intuitive problem solving skills.I am eager to contribute to innovative projects and collaborate with like-minded professionals to drive impactful solutions in the software development industry.I'm more passionate about backend engineering.
 
 
 
