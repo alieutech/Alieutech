@@ -4,7 +4,7 @@ My name is Alieu Saidy. I am a creative full-stack Software Engineer with over 1
 
 
 
-- 🌱 I’m currently learning Nodejs, Fluter 
+- 🌱 I’m currently learning Nodejs
 - 💬 Ask me about Python JavaScripts & Django 
 - ⚡ Fun fact: I'm a quite guy, but I talk a lot😄. 
 
