@@ -1,7 +1,6 @@
 ### Hi there 👋, called me alieutech
 #### I'm a pythonista
-My name is Alieu Saidy. I am a creative full-stack Software Engineer with over 1 year experience.I'm constantly seeking innovative solutions with intuitive problem solving skills.I am eager to contribute to innovative projects and collaborate with like-minded professionals to drive impactful solutions in the software development industry.I'm more passionate about backend engineering.
-
+I am Software Engineer with over one year of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.
 
 
 - 🌱 I’m currently learning **Nodejs, Nextjs**
