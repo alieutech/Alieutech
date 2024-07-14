@@ -4,7 +4,7 @@ Software Engineer with over one year of hands-on experience in Python and JavaSc
 
 
 - 🌱 I’m currently learning **Nextjs**
-- 💬 Ask me about **Python[Django] JavaScripts[Nodejs] & **
+- 💬 Ask me about **Python[Django] & JavaScripts[Nodejs]**
 - ⚡ Fun fact: I'm a quite guy, but I talk a lot😄. 
 
 
