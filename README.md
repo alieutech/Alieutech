@@ -3,8 +3,8 @@
 Software Engineer with over one year of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.
 
 
-- 🌱 I’m currently learning **Nodejs, Nextjs**
-- 💬 Ask me about **Python JavaScripts & Django**
+- 🌱 I’m currently learning **Nextjs**
+- 💬 Ask me about **Python[Django] JavaScripts[Nodejs] & **
 - ⚡ Fun fact: I'm a quite guy, but I talk a lot😄. 
 
 
