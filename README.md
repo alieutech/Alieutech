@@ -12,7 +12,7 @@ Software Engineer with over one year of hands-on experience in Python and JavaSc
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alieutech)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alieutech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieutech)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/alieutech&show_icons=true&count_private=true)  
 
