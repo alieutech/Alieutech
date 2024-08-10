@@ -17,4 +17,3 @@ Software Engineer with over one year of hands-on experience in Python and JavaSc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alieutech&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alieutech)  
-
