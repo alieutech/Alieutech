@@ -9,6 +9,7 @@ Software Engineer with over one year of hands-on experience in Python and JavaSc
 - ⚡ Fun fact: I'm a quite guy, but I talk a lot😄 
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alieutech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alieutech12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alieu-saidy-b1833a27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alieutech132) 
 
