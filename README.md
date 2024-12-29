@@ -1,8 +1,11 @@
-### Hi there 👋,  called me alieutech
  # 💫 About Me:
 #### I am pythonista....
 
-Software Engineer with over one year of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.<br><br>🌱 I’m currently learning React.js & Machine Learning<br>💬 Ask me about Python[Django] & Javascript[Node.js|Express.js<br>📫 How to reach me: alieusaidy1999@gmail.com<br>⚡ Fun fact: I'm a quite guy, but I talk a lot😄
+Software Engineer with over one year of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.
+🌱 I’m currently learning ##React.js & Machine Learning##
+💬 Ask me about ##Python[Django] & Javascript[Node.js|Express.js##
+📫 How to reach me: alieusaidy1999@gmail.com
+⚡ Fun fact: I'm a quite guy, but I talk a lot😄
 
 
 ## 🌐 Socials:
