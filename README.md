@@ -31,5 +31,5 @@ Software Engineer with over one year of hands-on experience in Python and JavaSc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alieutech&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=alieutech&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
