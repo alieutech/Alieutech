@@ -20,6 +20,9 @@ Software Engineer with two years of hands-on experience in Python and JavaScript
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alieutech&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alieutech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alieutech=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alieutech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
