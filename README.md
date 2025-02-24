@@ -20,7 +20,6 @@ Software Engineer with two years of hands-on experience in Python and JavaScript
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alieutech&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alieutech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieutech&hide=contribs,prs)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alieutech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -32,5 +31,7 @@ Software Engineer with two years of hands-on experience in Python and JavaScript
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alieutech&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alieutech&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
