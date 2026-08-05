@@ -1,7 +1,7 @@
  # 💫 About Me:
 #### I am pythonista....
 
-Software Engineer with four years of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.<br>
+Software Engineer with over three years of hands-on experience in Python and JavaScript development. Proficient in Django and Node.js, with a strong focus on backend engineering. Demonstrated ability to build robust applications and contribute to both group and personal projects. Eager to leverage skills in innovative projects and collaborate with like-minded professionals.<br>
 
 🌱 I’m currently learning AI & Machine Learning <br>
 💬 Ask me about Python & Javascript<br>
