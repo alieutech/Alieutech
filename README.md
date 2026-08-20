@@ -24,7 +24,8 @@
           **:        :**.             Email: ..................... alieusaidy1999@gmail.com
            -##+-::-+##-               LinkedIn: ..................... alieu-saidy-b1833a27b
              :=+**+=:                 X: ..................................... alieutech132
-                                      Medium: .................................. @alieutech```
+                                      Medium: .................................. @alieutech
+```
 
 <div align="center">
 
