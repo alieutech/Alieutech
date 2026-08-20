@@ -1,5 +1,5 @@
 ```
-                                     alieu@saidy ------------------------------------------
+                                      Alieu tech ------------------------------------------
              .-++++-.                 Host: ...................... Banjul, The Gambia (GMT)
            :*#*=--=*#*-               Uptime: ................. 4 years shipping production
           +#-        -#*              Kernel: ......................... Full-stack Engineer
@@ -46,10 +46,3 @@
 | **Mizan** | AI Quran verse matcher | Semantic matching on the Claude API and Quran Foundation APIs |
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alieutech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent&icon_color=39D353&text_color=808080&ring_color=58A6FF" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieutech&layout=compact&hide_border=true&count_private=true&hide_title=true&theme=transparent&text_color=808080" height="150" alt="Top languages" />
-
-</div>
