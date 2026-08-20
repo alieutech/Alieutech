@@ -6,7 +6,7 @@
        ++                =*
       :#             ..   #-         - Stack ----------------------------------------------
       *-  =%%#     =%@@@%::#          Languages: ...... TypeScript, Python, JavaScript, SQL
-     .#   %@@@:   -@@%##@= #:         Frameworks: .......... Next.js, React Native, Node.js
+     .#   %@@@:   -@@%##@= #:         Frameworks: .... Danjo, Next.js, React Native, Node.js
      -*  :@@%@+   *@*   .. +=         Data: ................. PostgreSQL, Supabase, MongoDB
      +=  +@#=@%   +@%=:    -+         Infra: ........... Docker, GH Actions, Stripe, Vercel
      +-  %@= @@-  :@@@@%*  :*         Spoken: ..................................... English
@@ -15,8 +15,8 @@
      =+ @@@@@@@@= -:   =@@ ==         KerrFaadia: ...... property marketplace, event-driven
      .*=@@:...#@% *@%##@@* #:         LexBook: ............. lawyer booking, RLS + edge fns
       *%%*    -%%.:#@@@@* :#          Kalamu: .............. distribution ERP, double-entry
-      :#             ..   *-          TailorFlow: ........ multi-tenant SaaS, JSONB schemas
-       *=                =*           Mizan: .................... Quran matcher, Claude API
+      :#             ..   *-          Mizan: .................... Quran matcher, Claude API
+       *=                =*           
         #-              -#.
         .#=            =#.           - Contact --------------------------------------------
           **:        :**.             Email: ..................... alieusaidy1999@gmail.com
