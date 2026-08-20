@@ -3,8 +3,6 @@
              .-++++-.                 Host: ...................... Banjul, The Gambia (GMT)
            :*#*=--=*#*-               Uptime: ................. 4 years shipping production
           +#-        -#*              Kernel: ......................... Full-stack Engineer
-         #+            +#.            Studying: ............ BSc Computer Science, UoPeople
-        #=              -#                                       AI Engineering, Ziti Group
        ++                =*
       :#             ..   #-         - Stack ----------------------------------------------
       *-  =%%#     =%@@@%::#          Languages: ...... TypeScript, Python, JavaScript, SQL
@@ -45,7 +43,6 @@
 | **KerrFaadia** | Property & rental marketplace | Event-driven across Stripe webhooks, Socket.IO, email triggers and Expo push; server-authoritative booking state |
 | **LexBook** | Lawyer discovery & booking | Postgres exclusion constraints enforce non-overlapping slots at the DB layer; RLS isolation, Stripe on a Deno edge function |
 | **Kalamu** | Distribution ERP | Double-entry ledger invisible to the user; bigint money storage; contractor debt aged per project and site |
-| **TailorFlow** | Tailor shop SaaS | Multi-tenant from the schema up; JSONB measurements adapt per shop without migrations |
 | **Mizan** | AI Quran verse matcher | Semantic matching on the Claude API and Quran Foundation APIs |
 
 ---
