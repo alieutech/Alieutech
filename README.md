@@ -14,7 +14,7 @@
      += *@@#*%@@      .*@@ -*        - Shipped --------------------------------------------
      =+ @@@@@@@@= -:   =@@ ==         KerrFaadia: ...... property marketplace, event-driven
      .*=@@:...#@% *@%##@@* #:         LexBook: ............. lawyer booking, RLS + edge fns
-      *%%*    -%%.:#@@@@* :#          Kalamu: .............. distribution ERP, double-entry
+      *%%*    -%%.:#@@@@* :#          YardLedger: .......... distribution ERP, double-entry
       :#             ..   *-          Mizan: .................... Quran matcher, Claude API
        *=                =*           
         #-              -#.
